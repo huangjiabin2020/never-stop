@@ -10,4 +10,8 @@
 
     <packaging>pom</packaging>
 
+    <modules>
+        <module>demo/user</module>
+    </modules>
+
 </project>
